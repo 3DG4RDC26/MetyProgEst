@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Sesion2\\NotaFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C199B1C4-4D4C-424B-B066-DF96725E9B33}|NotaFinal.csproj|c:\\users\\edgar\\onedrive\\documentos\\c#\\sesion2\\notafinal\\clases\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C199B1C4-4D4C-424B-B066-DF96725E9B33}|NotaFinal.csproj|solutionrelative:clases\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C199B1C4-4D4C-424B-B066-DF96725E9B33}|NotaFinal.csproj|c:\\users\\edgar\\onedrive\\documentos\\c#\\sesion2\\notafinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C199B1C4-4D4C-424B-B066-DF96725E9B33}|NotaFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Sesion2\\NotaFinal\\clases\\Notas.cs",
+              "RelativeDocumentMoniker": "clases\\Notas.cs",
+              "ToolTip": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Sesion2\\NotaFinal\\clases\\Notas.cs",
+              "RelativeToolTip": "clases\\Notas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T01:01:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Sesion2\\NotaFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edgar\\OneDrive\\Documentos\\C#\\Sesion2\\NotaFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:59:24.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

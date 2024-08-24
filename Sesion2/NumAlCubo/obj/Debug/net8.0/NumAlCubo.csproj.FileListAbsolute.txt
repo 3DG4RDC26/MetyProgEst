@@ -1,0 +1,14 @@
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\bin\Debug\net8.0\NumAlCubo.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\bin\Debug\net8.0\NumAlCubo.deps.json
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\bin\Debug\net8.0\NumAlCubo.runtimeconfig.json
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\bin\Debug\net8.0\NumAlCubo.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\bin\Debug\net8.0\NumAlCubo.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\NumAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\NumAlCubo.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\NumAlCubo.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\NumAlCubo.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\NumAlCubo.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\refint\NumAlCubo.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\NumAlCubo.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\NumAlCubo.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\NumAlCubo\obj\Debug\net8.0\ref\NumAlCubo.dll

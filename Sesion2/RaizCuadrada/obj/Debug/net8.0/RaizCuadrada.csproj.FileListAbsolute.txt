@@ -1,0 +1,14 @@
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.deps.json
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.runtimeconfig.json
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\refint\RaizCuadrada.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\RaizCuadrada\obj\Debug\net8.0\ref\RaizCuadrada.dll

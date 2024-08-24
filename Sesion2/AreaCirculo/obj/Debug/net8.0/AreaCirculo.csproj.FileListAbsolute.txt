@@ -1,0 +1,14 @@
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\bin\Debug\net8.0\AreaCirculo.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\bin\Debug\net8.0\AreaCirculo.deps.json
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\bin\Debug\net8.0\AreaCirculo.runtimeconfig.json
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\bin\Debug\net8.0\AreaCirculo.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\bin\Debug\net8.0\AreaCirculo.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\AreaCirculo.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\refint\AreaCirculo.dll
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\AreaCirculo.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\AreaCirculo.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Sesion2\AreaCirculo\obj\Debug\net8.0\ref\AreaCirculo.dll
